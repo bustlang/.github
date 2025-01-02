@@ -1,3 +1,3 @@
 # Bust Lang
 
-The actual b(worst) est language out there.
+The actual (worst) best language out there.
